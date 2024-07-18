@@ -30,19 +30,14 @@
 알툴즈 https://zlzltjddms.github.io/pf2/
 
 ## 스크린샷 또는 데모(포트폴리오 웹사이트의 스크린샷을 추가)
-![pf1](https://github.com/pageservice/personal/assets/71798491/040b7316-5c4c-4a09-b7e8-6c54d60ec832)
-![pf2](https://github.com/pageservice/personal/assets/71798491/1a7c723b-1e1b-4cb6-9f45-6b17b89482e9)
-![pf1-어큐닉](https://github.com/pageservice/personal/assets/71798491/3e7a5d1c-3326-4ffc-ac79-3fe4a96fe6a3)
-![pf4](https://github.com/pageservice/personal/assets/71798491/e8b59bed-76df-470c-8aec-71f580ab6cca)
+![458shots_so](https://github.com/user-attachments/assets/7f6a2afb-8105-454d-8b60-bbbf3fd8d96f)
+![pf2](https://github.com/user-attachments/assets/837df313-b8e0-4d8b-8e0a-e752e39321c9)
+![pf3](https://github.com/user-attachments/assets/381b1c89-9223-4723-8eca-b558bd2a53f9)
 
-
-
-
-![ww](https://github.com/pageservice/personal/assets/71798491/30c357e8-d39b-42e6-9c30-0db7706f73d4)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left" style="white-space: pre-line; display: flex;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> 
